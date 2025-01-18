@@ -1,4 +1,15 @@
-<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
+## Arweave Academy Personal File
+
+### Personal information
+
+- github account: Zams01
+- Email: jamalmedia195@gmail.com
+- Arweave Address:J1tuQcNiXlgeecqbGsnLC3TqFcvnMHTVA9vXVtVeleY
+- ETH Address: 0x5A5beF06abB4635f74eB82DeB243a5380cA4325A
+- Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
+
+### Introduce Yourself
+ i'am have biggest enthusiast in developing dApps in many chain in the web3 circle, im curently working a freelance in node developer, node runner, node operator etc<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 # School of DumDum
 
